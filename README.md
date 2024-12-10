@@ -4,8 +4,7 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** with a strong f
 
 🌱 I’m currently learning **Advanced JavaScript** and **React**  
 💬 Ask me about **Web Development**, **UI/UX Design**, and **MS Office Automation**  
-📫 Reach me at [your-email@example.com](mailto:your-email@example.com)  
-🌐 Check out my portfolio at [your-portfolio-link](https://your-portfolio-link.com)  
+📫 Reach me at [armishn581@gmail..com](mailto:armishn581@gmail.com)   
 
 ## 🛠️ Skills & Technologies
 - **Languages**: HTML, CSS, JavaScript  
